@@ -1,6 +1,6 @@
 # Advice API Website!
 
-Advice API is a full stack fully responsive website made with Next Js for both front-end and  for back-end. 
+Advice API is a full stack fully responsive website made with Next Js for both front-end and  for back-end. I made it for my application at UWC ISAK Japan!
 
 ## Table of contents
 - [Overview](#overview)
@@ -26,7 +26,7 @@ User should create account and will get the apikey which they can use to fetch t
 ### Run
 Clone the project
 
-    git clone https://github.com/exxnnonymous/full-stack-advice-api.git
+    git clone https://github.com/solomonshalom/advice-api.git
 Build the app
 
     npm run build
@@ -35,7 +35,7 @@ Start the app
     npm start
 
 ### Links
-- Live Site URL: (https://advice-api-smoky.vercel.app/)
+- Live Site URL: (advice-api.tk/)
 
 ## My process
 
@@ -56,5 +56,4 @@ I learned a lot while building this website. I learned a react component library
 
 ## Author
 
-- Twitter - [@exxnnonymous](https://www.twitter.com/exxnnonymous)
-- LinkedIn - [Sulav Bista](https://www.linkedin.com/in/sulav-bista/)
+- Twitter - [@shalomlijo](https://www.twitter.com/shalomlijo)
